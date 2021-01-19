@@ -1,0 +1,2 @@
+picocli/com/HelloWorld.java
+ picocli.com.HelloWorld
